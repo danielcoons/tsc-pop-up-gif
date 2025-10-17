@@ -1,5 +1,5 @@
 # tsc-pop-up-gif
-Find the VIP here: 
+Find the VIP here: [![Image](https://www.vipm.io/package/tsc_lib_tsc_pop_up_gif/badge.svg?metric=installs)](https://www.vipm.io/package/tsc_lib_tsc_pop_up_gif/) [![Image](https://www.vipm.io/package/tsc_lib_tsc_pop_up_gif/badge.svg?metric=stars)](https://www.vipm.io/package/tsc_lib_tsc_pop_up_gif/)
 
 And the parent project here: [![Image](https://www.vipm.io/package/tsc_lib_tsc_pop_up/badge.svg?metric=installs)](https://www.vipm.io/package/tsc_lib_tsc_pop_up/) [![Image](https://www.vipm.io/package/tsc_lib_tsc_pop_up/badge.svg?metric=stars)](https://www.vipm.io/package/tsc_lib_tsc_pop_up/)
 
