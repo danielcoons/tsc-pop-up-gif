@@ -13,6 +13,12 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="assets" Type="Folder">
+			<Item Name="images" Type="Folder">
+				<Item Name="Happy-Dance.gif" Type="Document" URL="../assets/images/Happy-Dance.gif"/>
+				<Item Name="jurassic-park.gif" Type="Document" URL="../assets/images/jurassic-park.gif"/>
+			</Item>
+		</Item>
 		<Item Name="Custom" Type="Folder">
 			<Item Name="GIF - Input (DBL)" Type="Folder">
 				<Item Name="GIF - Input (DBL).lvclass" Type="LVClass" URL="../Custom/GIF - Input (DBL)/GIF - Input (DBL).lvclass"/>
@@ -38,6 +44,9 @@
 			<Item Name="GIF - Two Button" Type="Folder">
 				<Item Name="GIF - Two Button.lvclass" Type="LVClass" URL="../Custom/GIF - Two Button/GIF - Two Button.lvclass"/>
 			</Item>
+		</Item>
+		<Item Name="Example" Type="Folder">
+			<Item Name="main--example pop-up gif.vi" Type="VI" URL="../Example/main--example pop-up gif.vi"/>
 		</Item>
 		<Item Name="GIF Parent.lvclass" Type="LVClass" URL="../GIF Parent.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
