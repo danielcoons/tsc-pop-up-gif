@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-10-16 14:33:53" Modified_Date="2025-10-17 09:21:33" Creator="Daniel Coons" Comments="" ID="51d39ffbc8248385ea1fb9bde44bd204">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-10-16 14:33:53" Modified_Date="2025-10-17 10:27:55" Creator="Daniel Coons" Comments="" ID="a8ee5de15a4e495c6b4a4d311f8526e2">
   <Library_General_Settings>
     <Package_File_Name>TSC_lib_TSC_Pop_Up_GIF</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.1.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -39,7 +39,10 @@ Developers can easily create and deploy great looking pop-ups for user instructi
       <Copyright>Copyright (c) 2025, Technology Service Corporation</Copyright>
       <Packager/>
       <URL>https://github.com/danielcoons/tsc-pop-up-gif</URL>
-      <Release_Notes>v1.0.0
+      <Release_Notes>v1.0.1
+-updated path on example vi for the sample GIFs
+
+v1.0.0
 -split from the TSC Pop-Up Library as an optional addon
 -prepared for public release</Release_Notes>
     </Description>
@@ -351,7 +354,7 @@ Developers can easily create and deploy great looking pop-ups for user instructi
         <Path>..\Custom\GIF - Input (String)\Display Input (String) Popup (GIF).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9CA8C7B0C8F624A38317F9F3B16F77FF</GUID>
+      <GUID>309643A63F40C2A905F175AD0E9480BC</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
